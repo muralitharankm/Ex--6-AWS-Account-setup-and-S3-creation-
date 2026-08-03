@@ -127,14 +127,18 @@ file.txt
 ---
 
 ## Outputs
-<img width="1918" height="1078" alt="Screenshot 2026-07-28 083312" src="https://github.com/user-attachments/assets/05c4d7c6-aff7-4803-815b-104592ecb95a" />
-<img width="1918" height="1078" alt="Screenshot 2026-07-28 083349" src="https://github.com/user-attachments/assets/7a0e8f51-fc24-4282-9d8f-0a68d1eeb03c" />
+<img width="1600" height="768" alt="WhatsApp Image 2026-08-03 at 12 24 26 PM" src="https://github.com/user-attachments/assets/aae4c762-b784-40d5-8b7b-037a88f2d738" />
+<img width="1600" height="764" alt="WhatsApp Image 2026-08-03 at 12 24 26 PM (1)" src="https://github.com/user-attachments/assets/99bcecf6-ad32-44b7-8bde-3a558ab15b49" />
 <img width="1875" height="595" alt="image" src="https://github.com/user-attachments/assets/e8b07536-dcc9-4fef-a7a3-1d34561eafcb" />
 <img width="1871" height="707" alt="image" src="https://github.com/user-attachments/assets/792cba49-fa3e-4216-87c5-eef341e13b81" />
 <img width="1917" height="606" alt="image" src="https://github.com/user-attachments/assets/1d5891cd-62e5-4617-a66a-bf16219c886a" />
-<img width="1918" height="921" alt="Screenshot 2026-07-28 085005" src="https://github.com/user-attachments/assets/978c9db7-eead-4c74-9c7b-3570b8c53869" />
+<img width="1600" height="760" alt="WhatsApp Image 2026-08-03 at 12 24 26 PM (4)" src="https://github.com/user-attachments/assets/7f655a62-e10d-474a-a207-3855c9fddbe4" />
 <img width="1918" height="930" alt="Screenshot 2026-07-28 085356" src="https://github.com/user-attachments/assets/2f9931e1-fb42-4081-bb52-3c139de21c27" />
 <img width="1548" height="546" alt="Screenshot 2026-07-28 093318" src="https://github.com/user-attachments/assets/f6eae027-bb65-4f3e-bf37-09794ca56ff0" />
+
+
+
+
 
 
 ## Result
