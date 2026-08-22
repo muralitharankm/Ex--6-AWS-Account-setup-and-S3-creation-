@@ -1,6 +1,6 @@
 # CLOUD STORAGE CREATION (S3) AND LAUNCHING AN (EC2) INSTANCE IN AWS
-## NAME: Stephen raj Y
-## REG NO: 212223230217
+## NAME: Muralitharan k m
+## REG NO: 212223040121
 
 ## Aim
 
@@ -10,7 +10,7 @@ To create and configure an Amazon Elastic Block Store (EBS) volume, attach and m
 
 ## Algorithm / Steps
 
-1. Create a new Amazon EBS volume with a size of 1 GiB.
+1. Create a new Amazon EBS volume with a size of 1 GiB.a
 2. Select the same Availability Zone as the EC2 instance.
 3. Attach the EBS volume to the EC2 instance using `/dev/sdb`.
 4. Connect to the EC2 instance using AWS Systems Manager Session Manager.
